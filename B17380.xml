@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Proposals humbly offered to the Honourable the House of Commons, for raising money to pay off all arrears of the army, and all other debts, in three months, without any land-tax, or oppression to any body.</title>
+            <author>P. B.</author>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B17380</idno><idno type="EEBO-CITATION">99886816</idno>
+  <idno type="VID">189481</idno>
+  <idno type="EEBO-PROQUEST">2248538581</idno>
+  
+            <idno type="STC">Wing B154A</idno>
+            <idno type="STC">Interim Tract Supplement Guide 1888.c.11[54]</idno>
+            <idno type="STC">ESTC R226634</idno>
+            <idno type="PROQUEST">ocm99886816</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99886816e"/>
+            <note>(EEBO-TCP ; phase 2, no. B17380)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 189481)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C16:2[59])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Proposals humbly offered to the Honourable the House of Commons, for raising money to pay off all arrears of the army, and all other debts, in three months, without any land-tax, or oppression to any body.</title>
+                  <author>P. B.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1700]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Initialed at end: P.B.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Army --  Appropriations and expenditures --  Early works to 1800.</term>
+               <term type="geographic_name">Taxation --  Law and legislation --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proposals">
+            <pb facs="tcp:189481:1"/>
+            <head>PROPOSALS <hi>Humbly Offered to the Honourable the</hi> House of Commons, <hi>for Raising Money to pay off all Arrears of the Army, and all other Debts, in Three Months, without any Land-Tax, or Oppression to any body.</hi>
+            </head>
+            <p n="1">I. 'TIS Humbly Proposed, that all Places and Offices in <hi>England, Ireland,</hi> and in the Dominion of the King of <hi>England,</hi> in <hi>America,</hi> or elsewhere, that are in the Gift of the Crown, or are in the disposal of any Place or Office that is in the Gift of the Crown, and receives Sallary or Profit from thence, amounting to the Summ of an 100 Pounds <hi>per Ann.</hi> shall be Sold for two Lives, at Five Years purchase, except all Spiritual Preferments; and all <hi>Judges,</hi> if the Parliament shall think fit.</p>
+            <p n="2">II. That those Officers that are to serve in the Fleet or Army, shall have liberty to buy their Places at Three Years Purchase, and to dispose of them again (with the King's consent) at the same Rate as bought; their Arrears to be taken as ready Money: And if an Officer buys his Place, and has no Son or Heir fit for that Place, he may put in any other Life; and when he grows Old, and un<g ref="char:EOLhyphen"/>fit for Service himself, he shall have the liberty to sell to any Person, the King shall approve of; or if he dies before having done so, he shall have the power (if the other Life he put in be in being) to dispose either of the Place, or the Money, which his Successor shall be obliged to pay to his Executors.</p>
+            <p n="3">III. That those Persons who have any Office for Life, as the <hi>Six Clerks, Clerks</hi> of the <hi>Assize,</hi> and several others; shall have an As<g ref="char:EOLhyphen"/>signment for a Life after their own, at two years and an halfs Purchase; but if they shall neglect, or refuse to pay the same, in such a limited time, the King shall have power to grant the said Assignment to any Person who will pay the said Money.</p>
+            <p>
+               <hi>The <hi>Objections</hi> that may be brought against these <hi>Proposals</hi> are,</hi>
+            </p>
+            <p>
+               <label>
+                  <hi>Obj.</hi> 1.</label> THat the King would lose one part of his Prerogative, <hi>Viz.</hi> The Disposal of these Offices, seeing they are to be Sold to any body that will purchase them.</p>
+            <p>
+               <label>Answ.</label> To which I Answer; that these Proposals will enlarge the King's Prerogative; for the King will have the same Power of disposing of all Offices as before; and the same Power of putting any Person out of his Place, whom he thinks not qualified to Execute it, or has any exception against his Person, and bestowing it upon whomsoever he pleases; provided the Person that's put out, be re-pay'd his Money, by him that is to succeed him, before he shall be oblig'd to resign his Place: And the King will be better served, in having all Offices Executed with the greatest Care and Fidelity; for the Care of any Man will naturally bear a proportion to the value of the thing cared for, or the interest he has in it. Now the interest of all Persons in Offices will be greater than formerly, and consequent<g ref="char:EOLhyphen"/>ly their care to preserve them will be so too; for the livelyhood, not only of the Officer himself, and his Family, but the future being of his Son too, will depend upon his due Execution of his Office; for if any Officer shall be legally Convicted in any of His Majesty's Courts, of any Male-Administration, he shall absolutely forfeit his Interest to the King, without any consideration of the Money he paid.</p>
+            <p>It's very well known, the King of <hi>France</hi> never fails of raising a considerable Summ by this Method; and every body, I believe, will allow, that no Prince is better served; nor can there be braver Troops than those, whose Officers buy their Places; as plainly appears by those of <hi>France,</hi> and <hi>Freizland.</hi>
+            </p>
+            <p>But the greatest advantage the King will have by these Proposals, will be the augmentation of his Revenue; for tho' the Money that shall at present be raised, by putting Lives into all Offices, will be intirely appropriated to the publick good, yet when any of these Lives fall, the profit that will arise from thence, will be wholly Converted to the King's Use; which may in time, make a con<g ref="char:EOLhyphen"/>siderable part of the Revenue of the Crown.</p>
+            <p>
+               <label>
+                  <hi>Obj.</hi> 2.</label> The Second Objection will be, that, Those Officers, who have the disposal of other Inferiour Places, (as the <hi>Master of the Rolls, Judges,</hi> &amp;c.) will lose the Gift of the said Places, that are in their disposal.</p>
+            <p>
+               <label>Answ.</label> To which I answer, That 'twill not be a certain Injury to any particular person, for the Death of any of the Six Clerks, or Clerks of the <hi>Assize,</hi> is a very great Contingency, and they deserve but little Consideration, who will not sacrifice a Private Interest, so con<g ref="char:EOLhyphen"/>tingent and uncertain, for the Publick Good: Besides the Nomination to all the said places, may continue in the same Persons as for<g ref="char:EOLhyphen"/>merly, provided the Money they are valued at, be paid in to the Publick Use.</p>
+            <p>
+               <label>
+                  <hi>Obj.</hi> 3.</label> The Third Objection may be, That those who are in Possession of Places, may be unwilling to lay down so much Money, and 'twill be an Injustice to turn them out, without any other reason.</p>
+            <p>
+               <label>Answ.</label> To which I answer, That there is hardly any body who will not, with great willingness, pay Five Years Purchase, to be secure of his Place for His own and His Sons Life; or if His Heir is not qualified to succeed him, he is sure his Money shall be repaid him again. It is but lending Money upon good Security, with better Interest than usual, which he that succeeds him (except the Lives he puts in fall) must pay him; so that, I believe, there will be no occasion to use any Severity in turning any body out of their Place.</p>
+            <p>
+               <label>
+                  <hi>Obj.</hi> 4.</label> The Fourth Objection may be, That, he that buys a Place, has not always a Son fit to succeed him, tho' he may be capable of it himself.</p>
+            <p>
+               <label>Answ.</label> To which I answer, That any Man has an opportunity to qualifie which Son or Friend he pleases, or if he is not qualified, he is se<g ref="char:EOLhyphen"/>cure of so much Money, or if he dies, and leaves a Son under Age, the Son may act by a Deputy, with the consent of the King.</p>
+            <p>
+               <label>
+                  <hi>Obj.</hi> 5.</label> The Fifth Objection may be, That some persons who are in Places, by reason of the smallness of their Fortunes, are not capable of laying down a sum of Money.</p>
+            <p>
+               <label>Answ.</label> To which I answer, The Parliament may grant, That those whose Circumstances will not allow them to lay down so much ready Money, may give their Bond, which may pass till such a limitted time, by which one may reasonably suppose the Money may be raised out of the said Office, and the usual Interest shall be paid in the mean time, and the Office may be made a Collateral Security for the Money.</p>
+            <p>There is no body but will reap considerable Advantages by these Proposals; the King will very much increase his Revenue, and his Officers, when their Interest is so considerable in their places, will be afraid to hazard the forfeiting them, by any such illegal practices, as have lately been discovered in the <hi>Exchequer,</hi> so much to the Kings prejudice: All Men of Estates, will have the advantage of easing their Land of the almost insupportable burthen of Four Shillings in the Pound: And all Persons that are in Offices, will have the ad<g ref="char:EOLhyphen"/>vantage of securing them for their own Life, and another, at a very easie Rate, so that they need not make so much haste to grow rich, as some have lately done, now they depend upon Pleasure. This will be also a considerable advantage in raising Money this way, that whereas no other Tax is raised in less than a year, and some in a much longer time, and therefore the King who has an absolute ne<g ref="char:EOLhyphen"/>cessity for ready Money (especially now, to Disband the Army, the Debt to it daily increasing considerably) is forced to allow so great Interest for it, that a good part of the said Taxes are swallowed up by it, (which is the cause of the constant Deficiencies) but this will be all paid into the <hi>Exchequer</hi> in Three Months time; and the charge of Collecting it will be inconsiderable, for it may be paid di<g ref="char:EOLhyphen"/>rectly into the <hi>Exchequer,</hi> for all people that are concerned will come voluntarily in, to take care of their own Interests. Nor can there be any Deficiency by a false Calculation, for if this Honourable House pleases to order a List of all the said Offices, with their Salaries and Perquisites to be laid before you, it may then be exactly computed what they will raise, which cann't amount to less than between Five and Six Millions.</p>
+            <closer>
+               <signed>P. B.</signed>
+            </closer>
+            <pb facs="tcp:189481:2"/>
+         </div>
+      </body>
+   </text>
+</TEI>
